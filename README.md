@@ -2,11 +2,85 @@
 
 ### A AI Solutions Engineer
 
-<h3 align="left">Connect with me:</h3>
+I build AI driven systems, automation workflows and scalable inference setups  
+Focus on LLM infrastructure, tool calling and real world integrations
+
+---
+
+### 🔗 Connect with me
+
 <p align="left">
-<a href="https://github.com/No749ah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="No749ah" height="30" width="40" /></a>
+<a href="https://github.com/No749ah">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/angular"><img src="https://skillicons.dev/icons?i=angular" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/bash"><img src="https://skillicons.dev/icons?i=bash" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/csharp"><img src="https://skillicons.dev/icons?i=cs" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/css3"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/dart"><img src="https://skillicons.dev/icons?i=dart" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/docker"><img src="https://skillicons.dev/icons?i=docker" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/dotnet"><img src="https://skillicons.dev/icons?i=dotnet" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/flutter"><img src="https://skillicons.dev/icons?i=flutter" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/git"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/html5"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/huggingface"><img src="https://cdn.simpleicons.org/huggingface" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/java"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/jest"><img src="https://skillicons.dev/icons?i=jest" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/jupyter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/linux"><img src="https://skillicons.dev/icons?i=linux" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/mariadb"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/mongodb"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/mysql"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/nestjs"><img src="https://skillicons.dev/icons?i=nestjs" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/nginx"><img src="https://skillicons.dev/icons?i=nginx" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/nodejs"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/ollama"><img src="https://cdn.simpleicons.org/ollama" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/oracle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/postgresql"><img src="https://skillicons.dev/icons?i=postgres" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/postman"><img src="https://skillicons.dev/icons?i=postman" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/pytorch"><img src="https://skillicons.dev/icons?i=pytorch" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/react"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/spring"><img src="https://skillicons.dev/icons?i=spring" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/typescript"><img src="https://skillicons.dev/icons?i=ts" width="40"/></a>
+
+</p>
+
+---
+
+### 🧠 What I do
+
+- Build AI agents with tool calling  
+- Design scalable LLM infrastructures  
+- Work with Kubernetes, vLLM and inference stacks  
+- Automate workflows using n8n and APIs  
+- Integrate real world systems with AI  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=No749ah&show_icons=true" />
+</p>
+
+---
+
+### 🚀 Current Focus
+
+- Optimizing local LLM performance  
+- Better tool calling reliability  
+- Building production ready AI systems  
+
+---
