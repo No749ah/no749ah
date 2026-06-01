@@ -72,7 +72,11 @@ Focus on LLM infrastructure, tool calling and real world integrations
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=No749ah&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=No749ah&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=No749ah&layout=compact&theme=tokyonight" />
 </p>
 
 ---
